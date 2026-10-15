@@ -43,4 +43,8 @@ Resource: Understand star schema and the importance for Power BI - https://learn
 
 ## Misconception in My Track
 
+A common misconception is that creating a dedicated 5G network slice automatically guarantees uninterrupted connectivity for emergency responders. In reality, network slicing provides logical separation and allows service characteristics to be tailored, but it cannot eliminate every outage or guarantee performance when resources or supporting infrastructure fail. Operators must configure and manage the slice, provide sufficient resources, and test its behavior under congestion and failures. The 3GPP Network Slicing overview is relevant because it explains the technology and its role in supporting different service requirements.
+
 ## Open Question
+
+How can an operator measure whether a dedicated emergency-response slice meets its latency and availability targets during congestion or a partial infrastructure failure?
